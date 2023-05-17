@@ -23,11 +23,13 @@ Sci-kit Learn: Experienced in using Sci-kit Learn for machine learning tasks, fr
 Spark: Familiar with Apache Spark for large-scale data processing and distributed computing, enabling high-performance analytics and machine learning.
 Streamlit: Skilled in developing interactive and intuitive data-driven web applications using Streamlit, enabling seamless deployment and sharing of data insights.
 FastAPI: Knowledgeable in building high-performance web APIs with FastAPI, leveraging asynchronous programming and modern Python features.
+
 📚 Areas of knowledge/expertise:
 
 Machine Learning: Equipped with a strong foundation in machine learning techniques, including supervised and unsupervised learning, ensemble methods, and model evaluation.
 Deep Learning: Well-versed in deep learning concepts, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformer models.
 Kubernetes: Experienced in managing and scaling applications using Kubernetes, including container orchestration, service discovery, and load balancing.
+
 💡 Passionate about exploring the intersection of data and technology, I thrive on uncovering valuable insights from complex datasets and transforming them into actionable solutions. I'm particularly interested in the application of data-driven approaches in domains such as healthcare, finance, and natural language understanding.
 
 🎯 Goals for the future: My goals revolve around continuously expanding my skills and knowledge in data science, deepening my expertise in NLP, and staying at the forefront of technological advancements. I am dedicated to contributing to open-source projects, collaborating with talented individuals, and leveraging data and technology to solve real-world problems and drive positive impact.
