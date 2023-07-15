@@ -4,8 +4,6 @@ Hi there 👋
 🌟 Data Enthusiast
 🌍 Singapore
 
-🔭 I’m currently working on Natural Language Processing and exploring how data-driven insights can be harnessed to transform industries.
-
 💬 Ask me about anything related to data science, machine learning, and the fascinating world of artificial intelligence!
 
 📫 How to reach me: [linkedin.com/in/justin-lim-jg]
