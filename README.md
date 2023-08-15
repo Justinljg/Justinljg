@@ -2,7 +2,7 @@ Hi there 👋
 👋 Hello, I'm Justin!
 
 👨‍💻 Programming Languages/Technologies/Tools
-![stack](stack.png)
+![stack](tstack.png)
 
 Let's connect and collaborate on exciting projects! 😄
 
