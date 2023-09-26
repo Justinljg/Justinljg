@@ -7,4 +7,4 @@
 
 Let's connect and collaborate on exciting projects! 😄
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=AndrewNgMyIdol&theme=dark" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=AndrewNgMyIdol&theme=dark" alt="LeetCode Badges" class="center"/>
