@@ -7,4 +7,5 @@
 
 Let's connect and collaborate on exciting projects! 😄
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=AndrewNgMyIdol&theme=dark" alt="LeetCode Badges" class="center"/> [![Leetcode Stats](https://leetcard.jacoblin.cool/AndrewNgMyIdol?theme=dark,unicorn)](https://leetcard.jacoblin.cool/AndrewNgMyIdol?theme=dark,unicorn)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AndrewNgMyIdol?theme=dark)](https://leetcard.jacoblin.cool/AndrewNgMyIdol?theme=dark)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=AndrewNgMyIdol&theme=dark" alt="LeetCode Badges"/> 
