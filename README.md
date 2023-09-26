@@ -1,6 +1,6 @@
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2000&pause=150&color=076776FF&multiline=true&width=500&height=80&lines=Lim+Jun+Guang+Justin;Data+Science;Chartered+AI+Engineer)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=AndrewNgMyIdol" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=AndrewNgMyIdol&theme=dark" alt="LeetCode Badges"/>
 
 👨‍💻 Programming Languages/Technologies/Tools
 ![stack](tstack.png)
